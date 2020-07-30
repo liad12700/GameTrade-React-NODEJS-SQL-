@@ -1,0 +1,3 @@
+[0415/224718.227:ERROR:process_reader_win.cc(151)] SuspendThread: ‏‏הגישה נדחתה. (0x5)
+[0415/224718.604:ERROR:exception_snapshot_win.cc(98)] thread ID 6932 not found in process
+[0415/224718.691:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: ‏‏בוצע ניסיון לגשת לתהליך המבצע יציאה. (0xc000010a)
